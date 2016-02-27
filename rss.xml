@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Algarve-property-rental]]></title>
+        <description><![CDATA[Algarve-property-rental]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Feb 2016 18:03:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Algarve-Property-Rental]]></title>
+            <description><![CDATA[<h1>Algarve-Property-Rental</h1>]]></description>
+            <link>undefinedalgarve-property-rental/index.html</link>
+            <guid isPermaLink="false">f32f1180-d02b-49ab-a7e4-1177047116fc</guid>
+            <pubDate>Sat, 27 Feb 2016 18:03:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

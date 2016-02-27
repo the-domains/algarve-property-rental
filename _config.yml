@@ -1,6 +1,6 @@
 name: Algarve-property-rental
 favicon: null
-layout_spectrum: 0.6688358285464346
+layout_spectrum: 0.4855
 typography_spectrum: 0.4825688600540161
 title: Your experienced partner
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#7c93bc'
+    - '#cdbf9c'
+    - '#26110c'
+    - '#7c7563'
+    - '#ece0cf'
   brandStrength: 0.990828103851527
   lightness: 0.28259043022990227
   saturation: 0.815191488713026

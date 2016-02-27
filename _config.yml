@@ -1,20 +1,4 @@
-name: Algarve-property-rental
-favicon: null
-layout_spectrum: 0.4855
-typography_spectrum: 0.4825688600540161
-title: Your experienced rental partner
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#7c93bc'
@@ -22,8 +6,13 @@ color:
     - '#26110c'
     - '#7c7563'
     - '#ece0cf'
-  brandStrength: 0.990828103851527
-  lightness: 0.28259043022990227
-  saturation: 0.815191488713026
-  rhythmicContrast: 0.9642847431823611
+  brandStrength: 0.990828
+  lightness: 0.502252
+  rhythmicContrast: 0.964284
+  saturation: 0.515765
+cta: {}
+layout_spectrum: 0.4855
+name: Algarve-property-rental
+opengraph: {}
 purpose: []
+typography_spectrum: 0.4825688600540161

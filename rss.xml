@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Algarve-property-rental]]></title>
-        <description><![CDATA[Algarve-property-rental]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Your experienced rental partner]]></title>
+        <description><![CDATA[Your experienced rental partner]]></description>
+        <link>https://thegrid.ai/algarve-property-rental/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 18:03:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 19:53:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/algarve-property-rental/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Guest welcoming service]]></title>
+            <description><![CDATA[<article><h1>Guest welcoming service</h1><p>We welcome the guests when you are not there and make sure that they feel welcome.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80a1851dfe53af65fe76a29bd18ad886d4ec545d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/algarve-property-rental/guest-welcoming-service/index.html</link>
+            <guid isPermaLink="false">28006731-127e-4e6b-9fff-2c81bd5043e6</guid>
+            <pubDate>Sat, 27 Feb 2016 19:53:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Algarve-Property-Rental]]></title>
             <description><![CDATA[<h1>Algarve-Property-Rental</h1>]]></description>
-            <link>undefinedalgarve-property-rental/index.html</link>
+            <link>https://thegrid.ai/algarve-property-rental/algarve-property-rental/index.html</link>
             <guid isPermaLink="false">f32f1180-d02b-49ab-a7e4-1177047116fc</guid>
             <pubDate>Sat, 27 Feb 2016 18:03:23 GMT</pubDate>
         </item>
